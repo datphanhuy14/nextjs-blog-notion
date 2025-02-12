@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Zesi',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Góc nhỏ, khởi đầu lớn',
 
   // social usernames (optional)
   twitter: 'zesi_one',
